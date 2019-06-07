@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="4">
+
+  <testsuite name="login"
+    errors="0" failures="1" hostname="" id="" package="login" skipped="1"
+    tests="4" time="6.196" timestamp="">
+  
+    <testcase name="Login to vente privee" classname="login" time="2.350" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login" classname="login" time="0.5790" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check url sub page" classname="login" time="1.790" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check element sub page" classname="login" time="1.477" assertions="3">
+
+    
+
+      <failure message="Testing if element &lt;rbtCivility_2&gt; is present in 1000 ms. - expected [0;32m&#34;present&#34;[0m but got: [0;31m&#34;not present&#34;[0m">    at Object.Check element sub page (/Users/timmykhamsithideth/Desktop/B3_DEV/Ecole/Cours/TDD/eval/mds3_test_e2e/e2e_test_spotify/test/login.js:27:15)
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+
+    <failure message="    at Object.Check element sub page (/Users/timmykhamsithideth/Desktop/B3_DEV/Ecole/Cours/TDD/eval/mds3_test_e2e/e2e_test_spotify/test/login.js:27:15)">    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Set value sub page" classname="login">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

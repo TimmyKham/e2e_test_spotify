@@ -11,8 +11,8 @@ nightwatch_config = {
   test_settings: {
     default: {
       desiredCapabilities: {
-        'browserstack.user': '',
-        'browserstack.key': '',
+        'browserstack.user': 'khamsithidethtim1',
+        'browserstack.key': '5Sbzn5zmWVtsxWZRaZNB',
         'browser': 'chrome',
         'name': 'Bstack-[Nightwatch]-spotify'
       }

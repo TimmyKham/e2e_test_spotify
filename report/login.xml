@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="login"
+    errors="1" failures="0" hostname="" id="" package="login" skipped="1"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+
+  
+    
+    <testcase
+      name="Login to spotify" classname="login">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
